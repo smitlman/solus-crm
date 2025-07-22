@@ -1,0 +1,63 @@
+/* Transaction history styles */
+.transaction-history {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px #f2f2f2;
+  padding: 24px 32px;
+  margin-bottom: 24px;
+}
+.transaction-history h2 {
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+}
+.transaction-history__tabs {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 18px;
+}
+.transaction-history__tabs span {
+  cursor: pointer;
+  color: #888;
+  font-weight: 500;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border 0.2s;
+}
+.transaction-history__tabs .active {
+  color: #2d60ff;
+  border-bottom: 2px solid #2d60ff;
+}
+.transaction-history__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.transaction-history__list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 1.05rem;
+}
+.transaction-history__list li:last-child {
+  border-bottom: none;
+}
+.transaction-title {
+  font-weight: 600;
+  color: #222;
+}
+.transaction-subtitle {
+  font-size: 0.95rem;
+  color: #888;
+}
+.transaction-amount {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.transaction-history__list li.income .transaction-amount {
+  color: #2ecc71;
+}
+.transaction-history__list li.expense .transaction-amount {
+  color: #7c3aed;
+}
