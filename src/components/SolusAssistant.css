@@ -1,0 +1,27 @@
+/* SOLUS Assistant button styles */
+.solus-assistant {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%);
+  background: #fff;
+  border-radius: 32px;
+  box-shadow: 0 2px 12px #e0e0e0;
+  padding: 12px 32px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #2d60ff;
+  z-index: 100;
+  cursor: pointer;
+  border: 1.5px solid #e0e7ff;
+  transition: box-shadow 0.2s;
+}
+.solus-assistant:hover {
+  box-shadow: 0 4px 18px #b3b3ff44;
+}
+.solus-assistant__icon {
+  font-size: 1.4rem;
+}

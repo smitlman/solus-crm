@@ -1,19 +1,24 @@
 /* Transaction history styles */
 .transaction-history {
   background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 2px 12px #f2f2f2;
-  padding: 24px 32px;
-  margin-bottom: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #f2f2f2;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  height: 300px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 .transaction-history h2 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 12px;
+  margin-top: 0;
 }
 .transaction-history__tabs {
   display: flex;
-  gap: 24px;
-  margin-bottom: 18px;
+  gap: 16px;
+  margin-bottom: 12px;
 }
 .transaction-history__tabs span {
   cursor: pointer;
@@ -22,6 +27,7 @@
   padding-bottom: 2px;
   border-bottom: 2px solid transparent;
   transition: color 0.2s, border 0.2s;
+  font-size: 0.9rem;
 }
 .transaction-history__tabs .active {
   color: #2d60ff;
@@ -31,14 +37,16 @@
   list-style: none;
   padding: 0;
   margin: 0;
+  flex: 1;
+  overflow-y: auto;
 }
 .transaction-history__list li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 16px 0;
+  padding: 12px 0;
   border-bottom: 1px solid #f0f0f0;
-  font-size: 1.05rem;
+  font-size: 0.95rem;
 }
 .transaction-history__list li:last-child {
   border-bottom: none;

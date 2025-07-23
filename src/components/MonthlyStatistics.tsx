@@ -13,17 +13,17 @@ const MonthlyStatistics: React.FC<MonthlyStatisticsProps> = ({ stats }) => (
       {/* Simple bar chart mockup */}
       <div className="chart-row">
         {stats.map((s, i) => (
-          <div key={i} className="chart-bar proposals" style={{height: `${s.proposals/1000}px`}} title={`Proposals: ${s.proposals.toLocaleString()}`}></div>
+          <div key={i} className="chart-bar proposals" style={{height: `${s.proposals/1200}px`}} title={`Proposals: ${s.proposals.toLocaleString()}`}></div>
         ))}
       </div>
       <div className="chart-row">
         {stats.map((s, i) => (
-          <div key={i} className="chart-bar income" style={{height: `${s.income/1000}px`}} title={`Income: ${s.income.toLocaleString()}`}></div>
+          <div key={i} className="chart-bar income" style={{height: `${s.income/1200}px`}} title={`Income: ${s.income.toLocaleString()}`}></div>
         ))}
       </div>
       <div className="chart-row">
         {stats.map((s, i) => (
-          <div key={i} className="chart-bar payment" style={{height: `${s.payment/1000}px`}} title={`Payment: ${s.payment.toLocaleString()}`}></div>
+          <div key={i} className="chart-bar payment" style={{height: `${s.payment/1200}px`}} title={`Payment: ${s.payment.toLocaleString()}`}></div>
         ))}
       </div>
       <div className="chart-labels">

@@ -1,77 +1,79 @@
-
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
+import { Provider, useDispatch, useSelector } from 'react-redux';
+import { store } from './redux/index';
+// @ts-ignore - JavaScript thunk file
+import { fetchPayments, fetchInvoices } from './redux/thunk.js';
+import type { RootState, AppDispatch } from './redux/index';
 import Sidebar from './components/Sidebar';
 import OverviewCards from './components/OverviewCards';
 import TransactionHistory from './components/TransactionHistory';
 import MonthlyStatistics from './components/MonthlyStatistics';
 import EmailCampaignInsights from './components/EmailCampaignInsights';
-
-import { fetchPayments } from './services/paymentsService';
-import { fetchInvoices } from './services/invoicesService';
+import AlertBar from './components/AlertBar';
+import ThisMonth from './components/ThisMonth';
+import SolusAssistant from './components/SolusAssistant';
 import { getTransactions, getMonthlyStats, getEmailCampaign } from './services/dashboardMockService';
 import SmartRecommendation from './components/SmartRecommendation';
 import WelcomeNewClients from './components/WelcomeNewClients';
-import type { Payment, Invoice } from './types/dashboard';
 import './App.css';
 
-const App: React.FC = () => {
-  const [payments, setPayments] = useState<Payment[]>([]);
-  const [invoices, setInvoices] = useState<Invoice[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+const DashboardContent: React.FC = () => {
+  const dispatch = useDispatch<AppDispatch>();
+  const { total: paymentsSum, change: paymentsChange } = useSelector((state: RootState) => state.payments);
+  const { total: invoicesCount, change: invoicesChange } = useSelector((state: RootState) => state.invoices);
 
-  useEffect(() => {
-    Promise.all([
-      fetchPayments(),
-      fetchInvoices()
-    ])
-      .then(([paymentsData, invoicesData]) => {
-        setPayments(paymentsData);
-        setInvoices(invoicesData);
-        setLoading(false);
-      })
-      .catch(() => {
-        setError('Failed to load data from backend');
-        setLoading(false);
-      });
-  }, []);
-
-  // Mock/statistics
+  // Mock data (static data as requested)
   const transactions = getTransactions();
   const monthlyStats = getMonthlyStats();
   const emailCampaign = getEmailCampaign();
 
-  // Calculated values for overview
-  const paymentsSum = payments.reduce((sum, p) => sum + p.amount, 0);
-  const paymentsChange = 15; // mock
-  const invoicesCount = invoices.length;
-  const invoicesChange = -10; // mock
+  useEffect(() => {
+    // Fetch real data for payments and invoices from backend
+    dispatch(fetchPayments());
+    dispatch(fetchInvoices());
+  }, [dispatch]);
 
   return (
     <div className="dashboard-root">
       <Sidebar />
       <main className="dashboard-main">
-        <div className="dashboard-header">
-          <div className="dashboard-alert">3 clients haven't completed payment – estimated ₪2,500 <span role="img" aria-label="money">🪙</span></div>
-          <div className="dashboard-user">Hello Ofek! <span className="dashboard-user__avatar">O</span></div>
-        </div>
+        <AlertBar />
         <h1 className="dashboard-title">Overview</h1>
-        <OverviewCards payments={paymentsSum} paymentsChange={paymentsChange} invoices={invoicesCount} invoicesChange={invoicesChange} />
-        <div className="dashboard-row">
-          <div className="dashboard-col dashboard-col--main">
-            <MonthlyStatistics stats={monthlyStats} />
-            <EmailCampaignInsights campaign={emailCampaign} />
+        <div className="dashboard-content">
+          <div className="dashboard-left">
+            <OverviewCards payments={paymentsSum} paymentsChange={paymentsChange} invoices={invoicesCount} invoicesChange={invoicesChange} />
+            <ThisMonth proposals={305} income={259} collectionRate={80} />
+            <div className="dashboard-row dashboard-row--charts">
+              <div className="dashboard-col dashboard-col--chart-left">
+                <MonthlyStatistics stats={monthlyStats} />
+              </div>
+              <div className="dashboard-col dashboard-col--chart-middle">
+                <EmailCampaignInsights campaign={emailCampaign} />
+              </div>
+              <div className="dashboard-col dashboard-col--chart-right">
+              </div>
+            </div>
+          </div>
+          <div className="dashboard-right">
+            <div className="dashboard-header">
+              <div className="dashboard-user">Hello Ofek! <span className="dashboard-user__avatar">O</span></div>
+            </div>
+            <TransactionHistory transactions={transactions} />
             <SmartRecommendation />
             <WelcomeNewClients />
           </div>
-          <div className="dashboard-col dashboard-col--side">
-            <TransactionHistory transactions={transactions} />
-          </div>
         </div>
-        {loading && <div className="dashboard-loading">Loading...</div>}
-        {error && <div className="dashboard-error">{error}</div>}
+        <SolusAssistant />
       </main>
     </div>
+  );
+};
+
+const App: React.FC = () => {
+  return (
+    <Provider store={store}>
+      <DashboardContent />
+    </Provider>
   );
 };
 

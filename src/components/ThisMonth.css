@@ -1,0 +1,57 @@
+/* This Month styles */
+.this-month {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #f2f2f2;
+  padding: 16px 20px;
+  margin-bottom: 12px;
+}
+.this-month h3 {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  margin-top: 0;
+  color: #222;
+}
+.this-month__items {
+  display: flex;
+  gap: 24px;
+  justify-content: flex-start;
+}
+.this-month__item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+.this-month__icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+.this-month__icon.proposals {
+  background: #e0e7ff;
+}
+.this-month__icon.income {
+  background: #dbeafe;
+}
+.this-month__icon.collection {
+  background: #ede9fe;
+}
+.this-month__content {
+  display: flex;
+  flex-direction: column;
+}
+.this-month__label {
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 2px;
+}
+.this-month__value {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #222;
+}
