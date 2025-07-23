@@ -11,7 +11,7 @@ namespace Dal.DBContext
         public DbSet<Invoice> Invoices { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<Proposal> Proposals { get; set; }
-        public DbSet<EmailCampaign> EmailCampaigns { get; set; }
+        //public DbSet<EmailCampaign> EmailCampaigns { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
     }
 }

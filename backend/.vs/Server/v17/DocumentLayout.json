@@ -1,121 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\",
+  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\emailcampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\emailcampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\iemailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iemailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\server\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|solutionrelative:server\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\blinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\blinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\iblinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\iblinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\iblpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\iblpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\iblclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\iblclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\blpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\blpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\server\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|solutionrelative:server\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\iproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\blproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\blproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\dalmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\blemailcampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\blemailcampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\iblemailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\iblemailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\dbcontext\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\dbcontext\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8D9BEC2-1E08-4F16-9C58-BFA737D54A24}|Server\\Server.csproj|solutionrelative:server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\emailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\emailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\emailcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\bluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\bluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\bltransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\bltransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\services\\blclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\services\\blclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\ibltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\ibltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\iblproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\iblproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\bl\\api\\ibluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FF3D1-B2B9-4BF6-845D-46D696A3578F}|BL\\BL.csproj|solutionrelative:bl\\api\\ibluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\iproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iproposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\server\\dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|c:\\users\\user1\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectayalasari\\solus-crm\\backend\\dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F60019C-3ABA-429B-8C44-2F3AEC2B1349}|Dal\\Dal.csproj|solutionrelative:dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,210 +178,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DalManeger.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\DalManeger.cs",
-              "RelativeDocumentMoniker": "Dal\\DalManeger.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\DalManeger.cs",
-              "RelativeToolTip": "Dal\\DalManeger.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:09:42.93Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDal.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IDal.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IDal.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IDal.cs",
-              "RelativeToolTip": "Dal\\Api\\IDal.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvw8AAAAaAAAA",
+              "DocumentIndex": 3,
+              "Title": "IBLInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLInvoice.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLInvoice.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLInvoice.cs",
+              "RelativeToolTip": "BL\\Api\\IBLInvoice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:49:44.689Z",
+              "WhenOpened": "2025-07-23T12:13:04.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ITransaction.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\ITransaction.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\ITransaction.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\ITransaction.cs",
-              "RelativeToolTip": "Dal\\Api\\ITransaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "BLPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLPaymentService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLPaymentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLPaymentService.cs",
+              "RelativeToolTip": "BL\\Services\\BLPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:37:26.665Z",
+              "WhenOpened": "2025-07-23T12:17:56.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\Invoice.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Invoice.cs",
-              "RelativeToolTip": "Dal\\Models\\Invoice.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAATAAAA",
+              "DocumentIndex": 4,
+              "Title": "IBLPayment.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLPayment.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLPayment.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLPayment.cs",
+              "RelativeToolTip": "BL\\Api\\IBLPayment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:59:54.02Z",
+              "WhenOpened": "2025-07-23T12:13:52.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmailCampaignService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\EmailCampaignService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\EmailCampaignService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\EmailCampaignService.cs",
-              "RelativeToolTip": "Dal\\Services\\EmailCampaignService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBEAAABqAAAA",
+              "Title": "BLInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLInvoiceService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLInvoiceService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLInvoiceService.cs",
+              "RelativeToolTip": "BL\\Services\\BLInvoiceService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:46:07.573Z",
+              "WhenOpened": "2025-07-23T12:17:10.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\ClientService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\ClientService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\ClientService.cs",
-              "RelativeToolTip": "Dal\\Services\\ClientService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Server\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:41:33.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BL.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\BL\\BL.csproj",
-              "RelativeDocumentMoniker": "BL\\BL.csproj",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\BL\\BL.csproj",
-              "RelativeToolTip": "BL\\BL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-23T08:55:28.778Z",
+              "WhenOpened": "2025-07-23T12:58:23.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\TransactionService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\TransactionService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\TransactionService.cs",
-              "RelativeToolTip": "Dal\\Services\\TransactionService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Server\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAF0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:46:50.861Z",
+              "WhenOpened": "2025-07-23T13:00:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Server\\Program.cs*",
+              "RelativeToolTip": "Server\\Program.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:58:02.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Transaction.cs",
-              "RelativeToolTip": "Dal\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T19:01:17.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\User.cs",
-              "RelativeToolTip": "Dal\\Models\\User.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:59:06.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Client.cs",
-              "RelativeToolTip": "Dal\\Models\\Client.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:59:19.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IEmailCampaign.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IEmailCampaign.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IEmailCampaign.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IEmailCampaign.cs",
-              "RelativeToolTip": "Dal\\Api\\IEmailCampaign.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:36:30.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:37:20.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "InvoiceService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\InvoiceService.cs",
               "RelativeDocumentMoniker": "Dal\\Services\\InvoiceService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\InvoiceService.cs",
               "RelativeToolTip": "Dal\\Services\\InvoiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T10:43:24.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IInvoice.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IInvoice.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IInvoice.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IInvoice.cs",
-              "RelativeToolTip": "Dal\\Api\\IInvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "DocumentIndex": 5,
+              "Title": "IBLClient.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLClient.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLClient.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLClient.cs",
+              "RelativeToolTip": "BL\\Api\\IBLClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:34:20.36Z",
+              "WhenOpened": "2025-07-23T12:11:08.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Dal\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\PaymentService.cs",
               "RelativeToolTip": "Dal\\Services\\PaymentService.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAswAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -338,128 +316,362 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IProposal.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IProposal.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IProposal.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IProposal.cs",
-              "RelativeToolTip": "Dal\\Api\\IProposal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "DocumentIndex": 10,
+              "Title": "BLProposalService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLProposalService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLProposalService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLProposalService.cs",
+              "RelativeToolTip": "BL\\Services\\BLProposalService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:35:47.316Z",
+              "WhenOpened": "2025-07-23T12:21:36.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProposalService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\ProposalService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\ProposalService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\ProposalService.cs",
-              "RelativeToolTip": "Dal\\Services\\ProposalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 11,
+              "Title": "DalManeger.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\DalManeger.cs",
+              "RelativeDocumentMoniker": "Dal\\DalManeger.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\DalManeger.cs",
+              "RelativeToolTip": "Dal\\DalManeger.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:45:22.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Services\\UserService.cs",
-              "RelativeToolTip": "Dal\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:39:37.733Z",
+              "WhenOpened": "2025-07-23T13:57:34.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IPayment.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IPayment.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IPayment.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IPayment.cs",
-              "RelativeToolTip": "Dal\\Api\\IPayment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:35:09.332Z",
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T08:55:28.778Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BLManager.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\BLManager.cs",
+              "RelativeDocumentMoniker": "BL\\BLManager.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\BLManager.cs",
+              "RelativeToolTip": "BL\\BLManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:30:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\EmailCampaign.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\EmailCampaign.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\EmailCampaign.cs",
+              "RelativeToolTip": "Dal\\Models\\EmailCampaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:01:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBL.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBL.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBL.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBL.cs",
+              "RelativeToolTip": "BL\\Api\\IBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:34:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BLEmailCampaignService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLEmailCampaignService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLEmailCampaignService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLEmailCampaignService.cs",
+              "RelativeToolTip": "BL\\Services\\BLEmailCampaignService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:22:17.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBLEmailCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLEmailCampaign.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLEmailCampaign.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLEmailCampaign.cs",
+              "RelativeToolTip": "BL\\Api\\IBLEmailCampaign.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:26:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BLUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLUserService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLUserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLUserService.cs",
+              "RelativeToolTip": "BL\\Services\\BLUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:20:39.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BLTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLTransactionService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLTransactionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLTransactionService.cs",
+              "RelativeToolTip": "BL\\Services\\BLTransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:23:09.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IClient.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IClient.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IClient.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IClient.cs",
-              "RelativeToolTip": "Dal\\Api\\IClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Title": "BLClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLClientService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\BLClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Services\\BLClientService.cs",
+              "RelativeToolTip": "BL\\Services\\BLClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:32:53.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T12:14:43.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IUser.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IUser.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\IUser.cs",
-              "RelativeToolTip": "Dal\\Api\\IUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Title": "IBLTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLTransaction.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLTransaction.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLTransaction.cs",
+              "RelativeToolTip": "BL\\Api\\IBLTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:32:09.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T12:26:57.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "ICrud.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\ICrud.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\ICrud.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Api\\ICrud.cs",
-              "RelativeToolTip": "Dal\\Api\\ICrud.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Title": "IBLProposal.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLProposal.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLProposal.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLProposal.cs",
+              "RelativeToolTip": "BL\\Api\\IBLProposal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:25:20.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T12:25:37.142Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "CrmDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\DBContext\\CrmDbContext.cs",
-              "RelativeDocumentMoniker": "Dal\\DBContext\\CrmDbContext.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\DBContext\\CrmDbContext.cs",
-              "RelativeToolTip": "Dal\\DBContext\\CrmDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IBLUser.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLUser.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IBLUser.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\BL\\Api\\IBLUser.cs",
+              "RelativeToolTip": "BL\\Api\\IBLUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:56:07.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Server\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Server\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Server\\appsettings.Development.json",
-              "RelativeToolTip": "Server\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T09:42:34.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T12:24:46.506Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\ITransaction.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\ITransaction.cs",
+              "RelativeToolTip": "Dal\\Api\\ITransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:37:26.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Invoice.cs",
+              "RelativeToolTip": "Dal\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:59:54.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\ClientService.cs",
+              "RelativeToolTip": "Dal\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:41:33.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\ICrud.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\ICrud.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\ICrud.cs",
+              "RelativeToolTip": "Dal\\Api\\ICrud.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:25:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Dal\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:46:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Transaction.cs",
+              "RelativeToolTip": "Dal\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:01:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\User.cs",
+              "RelativeToolTip": "Dal\\Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:59:06.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Client.cs",
+              "RelativeToolTip": "Dal\\Models\\Client.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:59:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IInvoice.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IInvoice.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IInvoice.cs",
+              "RelativeToolTip": "Dal\\Api\\IInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:34:20.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProposal.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IProposal.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IProposal.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IProposal.cs",
+              "RelativeToolTip": "Dal\\Api\\IProposal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:35:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProposalService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\ProposalService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\ProposalService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\ProposalService.cs",
+              "RelativeToolTip": "Dal\\Services\\ProposalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:45:22.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Services\\UserService.cs",
+              "RelativeToolTip": "Dal\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:39:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IPayment.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IPayment.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IPayment.cs",
+              "RelativeToolTip": "Dal\\Api\\IPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:35:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IClient.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IClient.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IClient.cs",
+              "RelativeToolTip": "Dal\\Api\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:32:53.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IUser.cs",
+              "RelativeDocumentMoniker": "Dal\\Api\\IUser.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Api\\IUser.cs",
+              "RelativeToolTip": "Dal\\Api\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:32:09.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Dal.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Dal.csproj",
               "RelativeDocumentMoniker": "Dal\\Dal.csproj",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Dal.csproj",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Dal.csproj",
               "RelativeToolTip": "Dal\\Dal.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -467,47 +679,28 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "EmailCampaign.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\EmailCampaign.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\EmailCampaign.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\EmailCampaign.cs",
-              "RelativeToolTip": "Dal\\Models\\EmailCampaign.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T19:01:00.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "Proposal.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Proposal.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Proposal.cs",
               "RelativeDocumentMoniker": "Dal\\Models\\Proposal.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Proposal.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Proposal.cs",
               "RelativeToolTip": "Dal\\Models\\Proposal.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T19:00:38.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T19:00:38.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Dal\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\Server\\Dal\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\projectAyalaSari\\solus-crm\\backend\\Dal\\Models\\Payment.cs",
               "RelativeToolTip": "Dal\\Models\\Payment.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T19:00:21.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T19:00:21.853Z"
             }
           ]
         }

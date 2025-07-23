@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BL
-build_property.ProjectDir = C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\BL\
+build_property.ProjectDir = C:\Users\user1\Documents\פרויקטים\projectAyalaSari\solus-crm\backend\BL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

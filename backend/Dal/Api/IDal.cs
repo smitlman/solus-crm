@@ -12,7 +12,7 @@ namespace Dal.Api
         public IClient Client { get; }
         public IInvoice Invoice { get; }
         public IPayment Payment { get; }
-        public IEmailCampaign EmailCampaign { get; }
+        //public IEmailCampaign EmailCampaign { get; }
         public IProposal Proposal { get; }
         public ITransaction Transaction { get; }
 
