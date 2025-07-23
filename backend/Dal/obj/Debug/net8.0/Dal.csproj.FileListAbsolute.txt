@@ -1,0 +1,5 @@
+C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\user1\Documents\פרויקטים\projectAyalaSari\Server\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
