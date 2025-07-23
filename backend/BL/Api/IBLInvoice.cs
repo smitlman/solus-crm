@@ -17,5 +17,6 @@ namespace BL.Api
         Task AddAsync(Invoice invoice);
         Task UpdateAsync(Invoice invoice);
         Task DeleteAsync(int id);
+        Task<(int current, int previous, double percentChange)> GetInvoicesSummaryAsync();
     }
 }

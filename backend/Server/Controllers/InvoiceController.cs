@@ -71,4 +71,15 @@ public class InvoiceController : ControllerBase
         await _blInvoice.DeleteAsync(id);
         return NoContent();
     }
+    [HttpGet("summary")]
+    public async Task<IActionResult> GetInvoicesSummary()
+    {
+        var summary = await _blInvoice.GetInvoicesSummaryAsync();
+        return Ok(new
+        {
+            current = summary.current,
+            previous = summary.previous,
+            percentChange = summary.percentChange
+        });
+    }
 }

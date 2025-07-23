@@ -17,5 +17,6 @@ namespace BL.Api
         Task AddAsync(Payment payment);
         Task UpdateAsync(Payment payment);
         Task DeleteAsync(int id);
+        Task<(decimal current, decimal previous, double percentChange)> GetPaymentsSummaryAsync();
     }
 }

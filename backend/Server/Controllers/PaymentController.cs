@@ -145,4 +145,15 @@ public class PaymentController : ControllerBase
         await _blPayment.DeleteAsync(id);
         return NoContent();
     }
+    [HttpGet("summary")]
+    public async Task<IActionResult> GetPaymentsSummary()
+    {
+        var summary = await _blPayment.GetPaymentsSummaryAsync();
+        return Ok(new
+        {
+            current = summary.current,
+            previous = summary.previous,
+            percentChange = summary.percentChange
+        });
+    }
 }

@@ -39,7 +39,25 @@ namespace BL.Services
             var allPayments = await _dalPayment.GetAllAsync();
             return allPayments.Where(p => p.UserId == userId);
         }
+        public async Task<(decimal current, decimal previous, double percentChange)> GetPaymentsSummaryAsync()
+        {
+            var allPayments = await _dalPayment.GetAllAsync();
+            var now = DateTime.Now;
+            var startOfThisMonth = new DateTime(now.Year, now.Month, 1);
+            var startOfLastMonth = startOfThisMonth.AddMonths(-1);
 
+            var currentSum = allPayments
+                .Where(p => p.PaymentDate >= startOfThisMonth)
+                .Sum(p => p.Amount);
+
+            var previousSum = allPayments
+                .Where(p => p.PaymentDate >= startOfLastMonth && p.PaymentDate < startOfThisMonth)
+                .Sum(p => p.Amount);
+
+            double percentChange = previousSum == 0 ? 0 : ((double)(currentSum - previousSum) / (double)previousSum) * 100.0;
+
+            return (currentSum, previousSum, percentChange);
+        }
         public Task<Payment?> GetByIdAsync(int id) => _dalPayment.GetByIdAsync(id);
         public Task AddAsync(Payment payment) => _dalPayment.AddAsync(payment);
         public Task UpdateAsync(Payment payment) => _dalPayment.UpdateAsync(payment);

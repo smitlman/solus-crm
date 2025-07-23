@@ -38,7 +38,23 @@ namespace BL.Services
             var allInvoices = await _dalInvoice.GetAllAsync();
             return allInvoices.Where(i => i.UserId == userId);
         }
+        public async Task<(int current, int previous, double percentChange)> GetInvoicesSummaryAsync()
+        {
+            var allInvoices = await _dalInvoice.GetAllAsync();
+            var now = DateTime.Now;
+            var startOfThisMonth = new DateTime(now.Year, now.Month, 1);
+            var startOfLastMonth = startOfThisMonth.AddMonths(-1);
 
+            var currentCount = allInvoices
+                .Count(i => i.InvoiceDate >= startOfThisMonth);
+
+            var previousCount = allInvoices
+                .Count(i => i.InvoiceDate >= startOfLastMonth && i.InvoiceDate < startOfThisMonth);
+
+            double percentChange = previousCount == 0 ? 0 : ((double)(currentCount - previousCount) / (double)previousCount) * 100.0;
+
+            return (currentCount, previousCount, percentChange);
+        }
         public Task<Invoice?> GetByIdAsync(int id) => _dalInvoice.GetByIdAsync(id);
         public Task AddAsync(Invoice invoice) => _dalInvoice.AddAsync(invoice);
         public Task UpdateAsync(Invoice invoice) => _dalInvoice.UpdateAsync(invoice);
