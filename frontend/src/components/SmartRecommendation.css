@@ -1,0 +1,24 @@
+/* Smart Recommendation styles */
+.smart-recommendation {
+  background: #7c3aed;
+  color: #fff;
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px #f2f2f2;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 120px;
+  box-sizing: border-box;
+}
+.smart-recommendation__title {
+  font-weight: 600;
+  opacity: 0.9;
+  font-size: 0.9rem;
+}
+.smart-recommendation__text {
+  font-size: 1.2rem;
+  font-weight: 500;
+}

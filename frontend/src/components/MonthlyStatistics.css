@@ -1,0 +1,71 @@
+/* Monthly statistics chart styles */
+.monthly-statistics {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #f2f2f2;
+  padding: 16px 20px;
+  margin-bottom: 0;
+  height: 240px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.monthly-statistics h3 {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+.monthly-statistics__chart {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 8px;
+  flex: 1;
+}
+.chart-row {
+  display: flex;
+  gap: 8px;
+  align-items: flex-end;
+  height: 70px;
+}
+.chart-bar {
+  width: 12px;
+  border-radius: 4px 4px 0 0;
+  background: #e0e7ff;
+  transition: height 0.3s;
+}
+.chart-bar.proposals {
+  background: #bdbdbd;
+}
+.chart-bar.income {
+  background: #2d60ff;
+}
+.chart-bar.payment {
+  background: #7c3aed;
+}
+.chart-labels {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-start;
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: 6px;
+}
+.monthly-statistics__legend {
+  display: flex;
+  gap: 16px;
+  margin-top: 12px;
+}
+.monthly-statistics__legend span {
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+.monthly-statistics__legend .proposals {
+  color: #bdbdbd;
+}
+.monthly-statistics__legend .income {
+  color: #2d60ff;
+}
+.monthly-statistics__legend .payment {
+  color: #7c3aed;
+}

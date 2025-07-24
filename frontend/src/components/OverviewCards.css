@@ -1,0 +1,45 @@
+/* Overview cards styles */
+.overview-cards {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 24px;
+}
+.overview-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px #f2f2f2;
+  padding: 28px 36px;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.overview-card__label {
+  font-size: 1.1rem;
+  color: #222;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.overview-card__change.positive {
+  background: #e6f7ff;
+  color: #2d60ff;
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 0.9rem;
+  margin-left: 8px;
+}
+.overview-card__change.negative {
+  background: #f3e6ff;
+  color: #7c3aed;
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: 0.9rem;
+  margin-left: 8px;
+}
+.overview-card__value {
+  font-size: 2.6rem;
+  font-weight: bold;
+  color: #111;
+}
